@@ -66,7 +66,7 @@ A automação com **AWS CloudFormation** traz grandes benefícios para organiza�
 ## 🧭 **Arquitetura do CloudFormation**
 
 A imagem abaixo ilustra o funcionamento básico do **AWS CloudFormation**, mostrando como templates são processados e transformados em recursos reais da AWS:
-
+<img src="/Images/Diagrama Cloud Formation.png">
 
 > 🔍 O CloudFormation interpreta o template, cria uma **Stack** e gerencia automaticamente todos os recursos necessários (EC2, S3, RDS, IAM, etc.), garantindo **consistência e automação total**.
 
